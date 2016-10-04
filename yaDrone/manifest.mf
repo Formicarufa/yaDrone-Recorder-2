@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: de.yadrone
+OpenIDE-Module-Install: de/yadrone/Installer.class
+OpenIDE-Module-Layer: de/yadrone/layer.xml
+OpenIDE-Module-Localizing-Bundle: de/yadrone/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

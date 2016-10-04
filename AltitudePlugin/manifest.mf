@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: de.yadrone.apps.controlcenter.plugins.altitude
+OpenIDE-Module-Localizing-Bundle: de/yadrone/apps/controlcenter/plugins/altitude/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+

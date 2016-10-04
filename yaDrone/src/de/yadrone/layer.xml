@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <file name="Edit_hidden"/>
+    </folder>
+    <folder name="Toolbars">
+        <file name="Clipboard_hidden"/>
+        <file name="File_hidden"/>
+        <file name="UndoRedo_hidden"/>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Modes">
+            <file name="battery_mode.wsmode" url="battery_modeWsmode.xml"/>
+            <file name="bottomSlidingSide.wsmode" url="bottomSlidingSideWsmode.xml"/>
+            <file name="config_mode.wsmode" url="config_modeWsmode.xml"/>
+            <file name="connection_state_mode.wsmode" url="connection_state_modeWsmode.xml"/>
+            <file name="leftSlidingSide.wsmode" url="leftSlidingSideWsmode.xml"/>
+            <file name="output_mode.wsmode" url="output_modeWsmode.xml"/>
+            <file name="plots_mode.wsmode" url="plots_modeWsmode.xml"/>
+            <file name="rightSlidingSide.wsmode" url="rightSlidingSideWsmode.xml"/>
+            <file name="speed_control_mode.wsmode" url="speed_control_modeWsmode.xml"/>
+            <file name="topSlidingSide.wsmode" url="topSlidingSideWsmode.xml"/>
+            <file name="video_mode.wsmode" url="video_modeWsmode.xml"/>
+        </folder>
+    </folder>
+</filesystem>
